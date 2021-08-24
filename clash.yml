@@ -1,14 +1,4 @@
-Skip to content
-搜索或跳转到…
-请求拉取
-议题
-应用商城
-探索
-MyRepos-仓库列表
-MyStars-收藏列表
- 
-@a86455576 
-a86455576
+
 /
 jiedian
 1
@@ -20,15 +10,6 @@ jiedian
 项目
 Wiki
 安全
-统计
-设置
-jiedian/clash.yml
-@a86455576
-a86455576 Create clash.yml
-最新提交 1f69b83 35分钟前
- 历史
- 1 贡献者
-3770 lines (3770 sloc)  187 KB
   
 Mirror 1 Download ZIP
 Mirror 2 Download ZIP
@@ -3802,16 +3783,3 @@ rules:
  - IP-CIDR,101.199.196.0/22,🎯 全球直连,no-resolve
  - GEOIP,CN,🎯 全球直连
  - MATCH,🐟 漏网之鱼
-© 2021 GitHub, Inc.
-服务条款
-隐私
-安全
-状态
-Docs
-联系 GitHub
-价格
-API
-培训
-博客
-关于
-返回顶部
